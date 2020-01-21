@@ -1,6 +1,6 @@
 # Electron Batch File Manager
 
-This project is meant to allow users to run batch files fomr their taskbar.
+This project is meant to allow users to run batch files from their taskbar.
 
 The batchFiles folder contains all batch files that will be loaded into the taskbar and updates the list each time it runs.
 
