@@ -1,0 +1,15 @@
+{
+  "name": "electronbatchmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . "
+  },
+  "author": "Matthew Lyons",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^7.1.9",
+    "fs": "0.0.1-security"
+  }
+}
